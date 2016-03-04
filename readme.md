@@ -40,4 +40,4 @@ Consider giving each group member 1-3 slides to work on so you can combine your 
 
 #### Deliverable
 
-Create a presentation deck - Google Slides, Keynote, Powerpoint - of at least 7 slides that answers the questions above. Include images, if appropriate.
+Create a presentation deck - Google Slides, Keynote, Powerpoint - of at least 7 slides that answers the questions above. Include images, if appropriate.  LINK HERE: http://prezi.com/qfgalbhzwfxo/?utm_campaign=share&utm_medium=copy
