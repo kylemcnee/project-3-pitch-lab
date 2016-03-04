@@ -11,8 +11,6 @@ creator:
 
 ## Introduction
 
-> ***Note:*** _This can be a pair programming activity or done independently._
-
 Finish working on your list of features that you are planning to build out for your final project, if you have not completed them in the previous class. The goal is to be able to distill your vision for what will be in your project.
 
 With your team, you will create a project proposal that ties together everything that you’ve learned and defines your vision for your third project. Use your user goals and feature prioritization to construct a project proposal that distills down your point of view and outlines how you intend to complete your final project.
